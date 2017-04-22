@@ -3,9 +3,7 @@
 
 Winpdb - A GPL Python Debugger
 
-Contact: Nir Aides
-Email:   nir@winpdb.org
-Website: http://www.winpdb.org/
+Original developer: Nir Aides
 Version: 1.4.8
 
 
